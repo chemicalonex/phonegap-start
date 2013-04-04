@@ -7,6 +7,8 @@
 Create a new app with the following repository:
 
     https://github.com/phonegap/phonegap-start.git
+    
+Modified by chemicalonex
 
 ## Run Application
 
